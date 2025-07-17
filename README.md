@@ -30,7 +30,7 @@
  <!-- - 🌐 **[NamaRepo2](https://github.com/Jackyandrazat/NamaRepo2)** – Deskripsi singkat projekmu. -->
 
 ## 📫 Get in Touch
-- Email: `jacky.andra@example.com`
+- Email: `jackyandrazat@gmail.com`
 - Website: [jackyandrazat](https://jackyandrazat.netlify.app)
 - Twitter: [@jacky_andrazat](https://twitter.com/jacky_andrazat)
 
