@@ -8,9 +8,10 @@
   </a>
 </p>
 
+<p>Mahir Karena : </p>
 <p align="center">
   <!-- Tech Badges -->
-  <img src="https://img.shields.io/badge/Laravel-Mahir-brightgreen?style=for-the-badge&logo=laravel" alt="Laravel Mahir"/>
+<!--   <img src="https://img.shields.io/badge/Laravel-Mahir-brightgreen?style=for-the-badge&logo=laravel" alt="Laravel Mahir"/>
   <img src="https://img.shields.io/badge/PHP-Mahir-blue?style=for-the-badge&logo=php" alt="PHP Mahir"/>
   <img src="https://img.shields.io/badge/JavaScript-Mahir-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Mahir"/>
   <img src="https://img.shields.io/badge/Vue.js-Mahir-green?style=for-the-badge&logo=vue.js" alt="Vue.js Mahir"/>
@@ -21,7 +22,7 @@
   <img src="https://img.shields.io/badge/Go-Dasar-lightgrey?style=for-the-badge&logo=go" alt="Go Dasar"/>
   <img src="https://img.shields.io/badge/Python-Dasar-blue?style=for-the-badge&logo=python" alt="Python Dasar"/>
    <img src="https://img.shields.io/badge/Java-Mahir-brightgreen?style=for-the-badge&logo=java" alt="Java Mahir"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-Menengah-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Menengah"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Menengah-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Menengah"/> -->
   <!-- Tambahan AI -->
   <img src="https://img.shields.io/badge/AI-Mahir-lightgrey?style=for-the-badge&logo=openai" alt="AI Mahir"/>
   <img src="https://img.shields.io/badge/Gemini-Beta-informational?style=for-the-badge&logo=google" alt="Gemini Beta"/>
