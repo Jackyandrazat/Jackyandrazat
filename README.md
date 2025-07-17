@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p>Mahir Karena : </p>
+<p align="center">Mahir Karena : </p>
 <p align="center">
   <!-- Tech Badges -->
 <!--   <img src="https://img.shields.io/badge/Laravel-Mahir-brightgreen?style=for-the-badge&logo=laravel" alt="Laravel Mahir"/>
