@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-Menengah-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Menengah"/>
   <!-- Tambahan AI -->
   <img src="https://img.shields.io/badge/AI-Dasar-lightgrey?style=for-the-badge&logo=openai" alt="AI Dasar"/>
-  <img src="https://img.shields.io/badge/AI-Dasar-lightgrey?style=for-the-badge&logo=gemini" alt="AI Dasar"/>
+  <img src="https://img.shields.io/badge/Gemini-Beta-informational?style=for-the-badge&logo=google" alt="Gemini Beta"/>
   
 </p>
 
