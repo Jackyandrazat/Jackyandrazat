@@ -13,13 +13,13 @@
   <img src="https://img.shields.io/badge/Laravel-Mahir-brightgreen?style=for-the-badge&logo=laravel" alt="Laravel Mahir"/>
   <img src="https://img.shields.io/badge/PHP-Mahir-blue?style=for-the-badge&logo=php" alt="PHP Mahir"/>
   <img src="https://img.shields.io/badge/JavaScript-Mahir-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Mahir"/>
-  <img src="https://img.shields.io/badge/Vue.js-Menengah-green?style=for-the-badge&logo=vue.js" alt="Vue.js Mahir"/>
+  <img src="https://img.shields.io/badge/Vue.js-Mahir-green?style=for-the-badge&logo=vue.js" alt="Vue.js Mahir"/>
   <img src="https://img.shields.io/badge/React.js-Mahir-informational?style=for-the-badge&logo=react" alt="React.js Mahir"/>
   <img src="https://img.shields.io/badge/Node.js-Lanjutan-green?style=for-the-badge&logo=node.js" alt="Node.js Lanjutan"/>
   <img src="https://img.shields.io/badge/TypeScript-Lanjutan-blue?style=for-the-badge&logo=typescript" alt="TypeScript Lanjutan"/>
-  <img src="https://img.shields.io/badge/NestJS-Lanjutan-red?style=for-the-badge&logo=nestjs" alt="NestJS Dasar"/>
+  <img src="https://img.shields.io/badge/NestJS-Dasar-red?style=for-the-badge&logo=nestjs" alt="NestJS Dasar"/>
   <img src="https://img.shields.io/badge/Go-Dasar-lightgrey?style=for-the-badge&logo=go" alt="Go Dasar"/>
-  <img src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python" alt="Python Dasar"/>
+  <img src="https://img.shields.io/badge/-Python-Dasar-informational?style=for-the-badge&logo=python" alt="Python Dasar"/>
   
 </p>
 
