@@ -31,7 +31,7 @@
 ---
 
 ## 🔭 Current Projects Development
-- ⚙️ **[POS Cafe](https://github.com/Jackyandrazat/pos-cafe)** – Deskripsi singkat projekmu.
+- ⚙️ **[POS Cafe](https://github.com/Jackyandrazat/pos-cafe)** – POS Cafe adalah aplikasi kasir berbasis web yang saya kembangkan untuk memudahkan operasional sebuah Cafe.
  <!-- - 🌐 **[NamaRepo2](https://github.com/Jackyandrazat/NamaRepo2)** – Deskripsi singkat projekmu. -->
 
 ## 📫 Get in Touch
