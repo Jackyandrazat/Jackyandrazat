@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/NestJS-Dasar-red?style=for-the-badge&logo=nestjs" alt="NestJS Dasar"/>
   <img src="https://img.shields.io/badge/Go-Dasar-lightgrey?style=for-the-badge&logo=go" alt="Go Dasar"/>
   <img src="https://img.shields.io/badge/Python-Dasar-blue?style=for-the-badge&logo=python" alt="Python Dasar"/>
+   <img src="https://img.shields.io/badge/Java-Mahir-brightgreen?style=for-the-badge&logo=java" alt="Java Mahir"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Menengah-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Menengah"/>
+  <!-- Tambahan AI -->
+  <img src="https://img.shields.io/badge/AI-Dasar-lightgrey?style=for-the-badge&logo=openai" alt="AI Dasar"/>
   
 </p>
 
