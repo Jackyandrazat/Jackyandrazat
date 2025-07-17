@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/TypeScript-Lanjutan-blue?style=for-the-badge&logo=typescript" alt="TypeScript Lanjutan"/>
   <img src="https://img.shields.io/badge/NestJS-Dasar-red?style=for-the-badge&logo=nestjs" alt="NestJS Dasar"/>
   <img src="https://img.shields.io/badge/Go-Dasar-lightgrey?style=for-the-badge&logo=go" alt="Go Dasar"/>
-  <img src="https://img.shields.io/badge/-Python-Dasar-informational?style=for-the-badge&logo=python" alt="Python Dasar"/>
+  <img src="https://img.shields.io/badge/Python-Dasar-green?style=for-the-badge&logo=python" alt="Python Dasar"/>
   
 </p>
 
