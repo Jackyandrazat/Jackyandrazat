@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p align="center">Mencoba Jadi Pro Software Engineer dengan :  Brain Hack openAI x Gemini awww 🚀✨</p>
+<p align="center">Cita Citaku Menjadi Software Engineer Handal dengan :  Brain Hack openAI x Gemini x Scroll Fesnuk awww 🚀✨</p>
 <p align="center">
   <!-- Squad Goals -->
   <img src="https://img.shields.io/badge/AI-MAHIR-lightgrey?style=for-the-badge&logo=openai" alt="AI Mahir"/>
