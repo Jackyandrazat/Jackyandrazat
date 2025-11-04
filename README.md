@@ -18,8 +18,8 @@
 <p align="center">Cita Citaku Menjadi Software Engineer Handal dengan :  Brain Hack openAI x Gemini x Scroll Fesnuk awww 🚀✨</p>
 <p align="center">
   <!-- Squad Goals -->
-  <img src="https://img.shields.io/badge/AI-MAHIR-lightgrey?style=for-the-badge&logo=openai" alt="AI Mahir"/>
-  <img src="https://img.shields.io/badge/Gemini-BETA-informational?style=for-the-badge&logo=google" alt="Gemini Beta"/>
+  <img src="https://img.shields.io/badge/AI-lightgrey?style=for-the-badge&logo=openai" alt="AI"/>
+  <img src="https://img.shields.io/badge/Gemini-informational?style=for-the-badge&logo=google" alt="Gemini"/>
 </p>
 
 <p align="center">
