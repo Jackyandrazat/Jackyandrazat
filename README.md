@@ -9,11 +9,11 @@
   </a>
 </p>
 <p align="center">
-  <!-- Profile Trophy Card -->
-  <a href="https://camo.githubusercontent.com/">
-    <img src="https://camo.githubusercontent.com/?username=Jackyandrazat&theme=radical&row=2&column=3" alt="Trophy"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jackyandrazat&theme=radical&row=2&column=3" alt="trophy" />
   </a>
 </p>
+
 
 <p align="center">Cita Citaku Menjadi Software Engineer Handal dengan :  Brain Hack openAI x Gemini x Scroll Fesnuk awww 🚀✨</p>
 <p align="center">
