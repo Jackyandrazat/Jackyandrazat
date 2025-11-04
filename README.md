@@ -28,18 +28,18 @@
 
 <p align="center">
   <!-- Tech Badges -->
-  <img src="https://img.shields.io/badge/Laravel-Mahir-brightgreen?style=for-the-badge&logo=laravel" alt="Laravel Mahir"/>
-  <img src="https://img.shields.io/badge/PHP-Mahir-blue?style=for-the-badge&logo=php" alt="PHP Mahir"/>
-  <img src="https://img.shields.io/badge/JavaScript-Mahir-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Mahir"/>
-  <img src="https://img.shields.io/badge/Vue.js-Mahir-green?style=for-the-badge&logo=vue.js" alt="Vue.js Mahir"/>
-  <img src="https://img.shields.io/badge/React.js-Mahir-informational?style=for-the-badge&logo=react" alt="React.js Mahir"/>
-  <img src="https://img.shields.io/badge/Node.js-Lanjutan-green?style=for-the-badge&logo=node.js" alt="Node.js Lanjutan"/>
-  <img src="https://img.shields.io/badge/TypeScript-Lanjutan-blue?style=for-the-badge&logo=typescript" alt="TypeScript Lanjutan"/>
-  <img src="https://img.shields.io/badge/NestJS-Dasar-red?style=for-the-badge&logo=nestjs" alt="NestJS Dasar"/>
-  <img src="https://img.shields.io/badge/Go-Dasar-lightgrey?style=for-the-badge&logo=go" alt="Go Dasar"/>
-  <img src="https://img.shields.io/badge/Python-Dasar-blue?style=for-the-badge&logo=python" alt="Python Dasar"/>
-   <img src="https://img.shields.io/badge/Java-Mahir-brightgreen?style=for-the-badge&logo=java" alt="Java Mahir"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-Menengah-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Menengah"/>
+  <img src="https://img.shields.io/badge/Laravel-??-brightgreen?style=for-the-badge&logo=laravel" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-??-blue?style=for-the-badge&logo=php" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-??-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-??-green?style=for-the-badge&logo=vue.js" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/React.js-??-informational?style=for-the-badge&logo=react" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Node.js-??-green?style=for-the-badge&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-??-blue?style=for-the-badge&logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/NestJS-??-red?style=for-the-badge&logo=nestjs" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Go-??-lightgrey?style=for-the-badge&logo=go" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-??-blue?style=for-the-badge&logo=python" alt="Python"/>
+   <img src="https://img.shields.io/badge/Java-??-brightgreen?style=for-the-badge&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-??-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
 </p>
 ---
 
