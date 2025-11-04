@@ -30,16 +30,16 @@
   <!-- Tech Badges -->
   <img src="https://img.shields.io/badge/Laravel-brightgreen?style=for-the-badge&logo=laravel" alt="Laravel"/>
   <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-??-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-??-green?style=for-the-badge&logo=vue.js" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/React.js-??-informational?style=for-the-badge&logo=react" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Node.js-??-green?style=for-the-badge&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-??-blue?style=for-the-badge&logo=typescript" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/NestJS-??-red?style=for-the-badge&logo=nestjs" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Go-??-lightgrey?style=for-the-badge&logo=go" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-??-blue?style=for-the-badge&logo=python" alt="Python"/>
-   <img src="https://img.shields.io/badge/Java-??-brightgreen?style=for-the-badge&logo=java" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-??-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/React.js-informational?style=for-the-badge&logo=react" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Go-lightgrey?style=for-the-badge&logo=go" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" alt="Python"/>
+   <img src="https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
 </p>
 ---
 
