@@ -28,8 +28,8 @@
 
 <p align="center">
   <!-- Tech Badges -->
-  <img src="https://img.shields.io/badge/Laravel-??-brightgreen?style=for-the-badge&logo=laravel" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-??-blue?style=for-the-badge&logo=php" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-brightgreen?style=for-the-badge&logo=laravel" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php" alt="PHP"/>
   <img src="https://img.shields.io/badge/JavaScript-??-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Vue.js-??-green?style=for-the-badge&logo=vue.js" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/React.js-??-informational?style=for-the-badge&logo=react" alt="React.js"/>
