@@ -11,7 +11,7 @@
 <p align="center">
   <!-- Profile Trophy Card -->
   <a href="https://github.com/DenverCoder1/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jackyandrazat&theme=radical&row=2&column=3" alt="Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app?username=Jackyandrazat&theme=radical&row=2&column=3" alt="Trophy"/>
   </a>
 </p>
 
