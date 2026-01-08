@@ -15,7 +15,7 @@
 </p>
 
 
-<p align="center">Getaran Code Untuk jadi Software Engineer Handal dengan :  Brain Hack openAI x Gemini x Scroll Fesnuk awww 🚀✨</p>
+<p align="center">Pegiat IT Untuk jadi Software Engineer Handal dengan :  Brain Hack openAI x Gemini x Scroll Fesnuk awww 🚀✨</p>
 <p align="center">
   <!-- Squad Goals -->
   <img src="https://img.shields.io/badge/AI-lightgrey?style=for-the-badge&logo=openai" alt="AI"/>
