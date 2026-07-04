@@ -48,9 +48,9 @@
  <!-- - 🌐 **[NamaRepo2](https://github.com/Jackyandrazat/NamaRepo2)** – Deskripsi singkat projekmu. -->
 
 ## 📫 Get in Touch
-- Email: `jackyandrazat@gmail.com`
-- Website: [jackyandrazat](https://jackyandrazat.netlify.app)
-- Twitter: [@jacky_andrazat](https://twitter.com/jacky_andrazat)
+<!--- Email: `jackyandrazat@gmail.com`
+ Website: [jackyandrazat](https://jackyandrazat.netlify.app)
+- Twitter: [@jacky_andrazat](https://twitter.com/jacky_andrazat) -->
 
 <details>
   <summary>⚙️ More about me</summary>
@@ -59,10 +59,7 @@
   - 🌱 I’m learning **TypeScript**, **Next.js**, and **REST API** to level up my frontend and API skills.  
   - 👯 I’m looking to collaborate on **open-source web applications**, especially projects that involve **progressive web apps**, **real-time data**, or **developer tooling**.    
   - 📫 How to reach me:  
-    - Email: `jackyandrazat@gmail.com`  
-    - LinkedIn: [linkedin.com/in/jackyandrazat](https://www.linkedin.com/in/jacky-andrazat/)  
-    - Twitter: [@jackyandra](https://twitter.com/jacky_andrazat)  
-  - 😄 Pronouns: **He/Him**  
+  
   <!-- - ⚡ Fun fact: I once built a **smart mirror** that displays live weather, calendar events, and news headlines, all powered by a Raspberry Pi!  --> 
 </details>
 
